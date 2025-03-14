@@ -1,7 +1,7 @@
 ## Hi, I'm Xin Yi
 
 # 💫 About Me:
-<br>🔭 Computer Science student at Sunway University<br>🌱 I’m currently learning about cyber security and full-stack development<br><br>
+<br>📖 Computer Science student at Sunway University<br>🧠 Currently learning about cyber security and full-stack development<br><br>
 
 
 # 💻 Tech Stack:
