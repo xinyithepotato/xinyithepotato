@@ -14,11 +14,11 @@ I'm a Final year Computer Science student at Sunway University with a foundation
 
 
 # 💻 Tech Stack:
-Languages: Python, JavaScript, Bash
-Frameworks & Libraries: Flask, React, Tailwind CSS, TensorFlow
-Cloud & DevOps: AWS, Google Cloud Platform (GCP), Microsoft Azure, Terraform, Docker, Linux
-Security Tools: Wazuh, Suricata, Azure Cognitive Services
-Database: PostgreSQL
+Languages: Python, JavaScript, Bash<br>
+Frameworks & Libraries: Flask, React, Tailwind CSS, TensorFlow<br>
+Cloud & DevOps: AWS, Google Cloud Platform (GCP), Microsoft Azure, Terraform, Docker, Linux<br>
+Security Tools: Wazuh, Suricata, Azure Cognitive Services<br>
+Database: PostgreSQL<br>
 Version Control: Git, GitHub
 
 # 📊 GitHub Stats:
