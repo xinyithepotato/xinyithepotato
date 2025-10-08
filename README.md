@@ -21,7 +21,7 @@ __Security Tools:__ Wazuh, Suricata, Azure Cognitive Services<br>
 __Version Control:__ Git, GitHub
 
 # 📊 GitHub Stats:
-![xinyithepotato's Stats](https://github-readme-stats.vercel.app/api?username=xinyithepotato&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![xinyithepotato's Stats](https://github-readme-stats.vercel.app/api?username=xinyithepotato&theme=graywhite&show_icons=true&hide_border=true&count_private=true)<br/>
 ![xinyithepotato's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinyithepotato&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
